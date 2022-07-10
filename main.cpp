@@ -21,7 +21,6 @@ int main()
         std::cin>>adress;
         mass_a_n.push_back(adress);
     }
-
     std::vector<Device*> devices;
     for(int i=0;i<n;i++)
     {
